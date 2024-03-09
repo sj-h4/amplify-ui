@@ -1,5 +1,11 @@
 # @aws-amplify/ui
 
+## 6.0.12
+
+### Patch Changes
+
+- [#5038](https://github.com/aws-amplify/amplify-ui/pull/5038) [`f64ea459e`](https://github.com/aws-amplify/amplify-ui/commit/f64ea459e5008ebb764697177958ee8307ce7542) Thanks [@hbuchel](https://github.com/hbuchel)! - fix(ui/liveness): fix flex-direction of landscape error message in FaceLiveness component
+
 ## 6.0.11
 
 ### Patch Changes
